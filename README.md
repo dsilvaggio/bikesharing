@@ -7,5 +7,6 @@
   For NYC Citibike data, there are definite trends on the types of users as well as when and where bikes are being used. 
   ### 1) Types of users
  A majority (65%) of citibike users are male. Most users (81%) are subscribers, or people who have purchased an annual pass instead of a day pass. 
-[This is an image](
+
+[this is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-28%20at%205.02.40%20PM.png)
 ## Summary
