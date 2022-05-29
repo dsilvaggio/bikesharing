@@ -4,4 +4,8 @@
 ## Link to the Tableau Story
 [Link to Tableau](https://public.tableau.com/shared/QDRMX5QBD?:display_count=n&:origin=viz_share_link)
 ## Results
+  For NYC Citibike data, there are definite trends on the types of users as well as when and where bikes are being used. 
+  ### 1) Types of users
+ A majority (65%) of citibike users are male. Most users (81%) are subscribers, or people who have purchased an annual pass instead of a day pass. 
+[This is an image](
 ## Summary
