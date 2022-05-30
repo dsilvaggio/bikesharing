@@ -27,7 +27,7 @@ During the week, both males and females are have similar peak hours. A majority 
 ![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-28%20at%205.22.10%20PM.png)
 
 ### 4) August Peak Hours
-Peak hours for bike usage are 5pm, 6pm, and 8am. Non-peak hours are between 12am and 5am. 
+Peak hours for bike usage are 5pm, 6pm, and 8am. Non-peak hours are between 1am and 5am. 
 
 ![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-29%20at%205.33.40%20PM.png)
 
@@ -36,3 +36,12 @@ Bikes are used primarily by male subscribers, followed by female subscribers.
 
 ![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-29%20at%205.36.01%20PM.png)
 ## Summary
+Key findings after this analysis include:
+1) Male subscribers make up the largest percent of users. They are using bikes primarily during work commute hours.
+2) An ideal time to do bike repairs would between the hours of 1am and 5am.  
+3) A subscription service for users to pre pay for the entire year should be offered.
+4) The target market are male subscribers using bikes for work transportation and other weekend events. 
+
+Two additional visualizations that I would suggest for future analysis are:
+1) Starting and Ending locations by user type as well as gender to determine if where bikes are being targeted makes a difference by gender and user type.
+2) Number of trips taken by age to determine your target age demographic.  
