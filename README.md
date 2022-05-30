@@ -26,5 +26,8 @@ During the week, both males and females are have similar peak hours. A majority 
 
 ![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-28%20at%205.22.10%20PM.png)
 
-### 4) 
+### 4) August Peak Hours
+Peak hours for bike usage are 5pm, 6pm, and 8am. Non-peak hours are between 12am and 5am. 
+
+![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-29%20at%205.33.40%20PM.png)
 ## Summary
