@@ -30,4 +30,9 @@ During the week, both males and females are have similar peak hours. A majority 
 Peak hours for bike usage are 5pm, 6pm, and 8am. Non-peak hours are between 12am and 5am. 
 
 ![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-29%20at%205.33.40%20PM.png)
+
+### 5) Trips by Gender by Weekday
+Bikes are used primarily by male subscribers, followed by female subscribers. 
+
+![This is an image](https://github.com/dsilvaggio/bikesharing/blob/main/images/Screen%20Shot%202022-05-29%20at%205.36.01%20PM.png)
 ## Summary
